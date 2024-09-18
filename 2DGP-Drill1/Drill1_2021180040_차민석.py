@@ -34,3 +34,5 @@ turtle.onkey(left_move, 'a')
 turtle.onkey(right_move, 'd')
 turtle.onkey(restart, 'Escape')
 turtle.listen()
+
+turtle.exitonclick()
